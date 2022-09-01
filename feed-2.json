@@ -1,0 +1,20 @@
+{
+  "name": "madebyjonny2",
+  "avatar_url": "",
+  "website": "",
+  "social_profiles": [{"name": "instagram", "url": "https://www.instagram.com/madebyjonny"}],
+  "last_updated": "",
+  "feed": [
+    {
+      "title": "this is a test post", 
+      "description": "this is a test description", 
+      "created_on": "",
+      "external_link": "https://www.madebyjonny.com",
+      "gallery": [
+        {
+          "type": "image", 
+          "media_url": "" 
+        }
+      ]}
+  ]
+}
